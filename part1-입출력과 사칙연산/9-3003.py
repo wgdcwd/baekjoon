@@ -1,0 +1,8 @@
+arr = input().split()
+arr[0] = 1 - int(arr[0])
+arr[1] = 1 - int(arr[1])
+arr[2] = 2 - int(arr[2])
+arr[3] = 2 - int(arr[3])
+arr[4] = 2 - int(arr[4])
+arr[5] = 8 - int(arr[5])
+print(*arr)

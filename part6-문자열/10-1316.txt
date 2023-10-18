@@ -1,0 +1,15 @@
+aaabbaaccccdddd가 있다면
+i = 0
+aabbaaccccdddd
+
+i = 0
+abbaaccccdddd
+
+i = 1
+abbaaccccdddd
+
+i = 1
+abaaccccdddd
+
+뒤에 " "를 붙여준 이유
+오버플로우 나지 않도록
