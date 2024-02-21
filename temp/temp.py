@@ -1,1 +1,6 @@
-print(max(1, 2, 3))
+s = set()
+s.add("B")
+s.add("A")
+s.add("C")
+s = list(s)
+print(*s)
